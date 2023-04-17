@@ -1,0 +1,1 @@
+﻿insert into Items(Name,Category,price) values (@Name,@Category,@price) select 1

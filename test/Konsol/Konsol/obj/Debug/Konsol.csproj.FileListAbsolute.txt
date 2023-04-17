@@ -1,0 +1,8 @@
+C:\Users\rnety\source\repos\Konsol\Konsol\obj\Debug\Konsol.csproj.AssemblyReference.cache
+C:\Users\rnety\source\repos\Konsol\Konsol\obj\Debug\Konsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\rnety\source\repos\Konsol\Konsol\obj\Debug\Konsol.csproj.CoreCompileInputs.cache
+C:\Users\rnety\source\repos\Konsol\Konsol\bin\Debug\Konsol.exe.config
+C:\Users\rnety\source\repos\Konsol\Konsol\bin\Debug\Konsol.exe
+C:\Users\rnety\source\repos\Konsol\Konsol\bin\Debug\Konsol.pdb
+C:\Users\rnety\source\repos\Konsol\Konsol\obj\Debug\Konsol.exe
+C:\Users\rnety\source\repos\Konsol\Konsol\obj\Debug\Konsol.pdb

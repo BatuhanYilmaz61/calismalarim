@@ -1,0 +1,6 @@
+C:\Users\rnety\source\repos\Malzeme\Malzeme\obj\Release\Malzeme.csproj.AssemblyReference.cache
+C:\Users\rnety\source\repos\Malzeme\Malzeme\obj\Release\Malzeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\rnety\source\repos\Malzeme\Malzeme\obj\Release\Malzeme.Form1.resources
+C:\Users\rnety\source\repos\Malzeme\Malzeme\obj\Release\Malzeme.Properties.Resources.resources
+C:\Users\rnety\source\repos\Malzeme\Malzeme\obj\Release\Malzeme.csproj.GenerateResource.cache
+C:\Users\rnety\source\repos\Malzeme\Malzeme\obj\Release\Malzeme.csproj.CoreCompileInputs.cache
