@@ -1,1 +1,9 @@
-﻿insert into Items(Name,Category,price) values (@Name,@Category,@price) select 1
+﻿insert into Items
+(
+	Name,
+	Category,
+	price,
+	GUID,
+	LogoRef
+) 
+values (@Name,@Category,@price,@GUID,@LogoRef)

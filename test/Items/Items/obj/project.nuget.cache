@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P3RgiILuw+eiVP/vEE4PyIjz7A19Whe0vgBE8auOOB7gtOT1JiPBXnq4bCNz3VhlhnFB/zgxF/NMz7lF3Vlfiw==",
+  "dgSpecHash": "CHC9K9n1bY4zw1dvXjiG7MEehPQwFMgdtLKGXF2XvPKiG1PM2k6nlKaOeeSFlQc/Hc+E25O+renKtqloU+GFyw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\test\\Items\\Items\\Items.csproj",
+  "projectFilePath": "C:\\Projects\\calismalarim\\test\\Items\\Items\\Items.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rnety\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
     "C:\\Users\\rnety\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

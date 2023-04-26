@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EiJaId/YGNaGlC8ItyFCrnWAwLTUESxbiC7ipOen5J3mqldgNYDQcXTPU6oNtY/9yKySAjfsjJ6ILcN8ZkBsKQ==",
+  "dgSpecHash": "JY6YumytPArhQPb9sn7rJ5iOOEFcGLN1rP3d7jbXeT0TtyzUFNcL7LM/f0tfnYJtq1b53524DzQosF48mGcv4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rnety\\source\\repos\\ItemApi\\ItemApi\\ItemApi.csproj",
+  "projectFilePath": "C:\\Projects\\calismalarim\\test\\ItemApi\\ItemApi\\ItemApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rnety\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\rnety\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -193,5 +193,12 @@
     "C:\\Users\\rnety\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rnety\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "The folder 'C:\\Users\\rnety\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\net705' contains an invalid version."
+    }
+  ]
 }

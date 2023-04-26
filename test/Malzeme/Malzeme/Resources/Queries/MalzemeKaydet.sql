@@ -2,9 +2,14 @@
            ([ID]
            ,[Name]
            ,[Category]
-           ,[price])
+           ,[price]
+           ,[GUID]
+           ,LogoRef
+           )
      VALUES
            (@ID
            ,@Name
            ,@Category
-           ,@price)
+           ,@price
+           ,@GUID
+           ,@LogoRef)

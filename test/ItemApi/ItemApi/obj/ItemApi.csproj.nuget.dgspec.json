@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rnety\\source\\repos\\ItemApi\\ItemApi\\ItemApi.csproj": {}
+    "C:\\Projects\\calismalarim\\test\\ItemApi\\ItemApi\\ItemApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rnety\\source\\repos\\ItemApi\\ItemApi\\ItemApi.csproj": {
+    "C:\\Projects\\calismalarim\\test\\ItemApi\\ItemApi\\ItemApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rnety\\source\\repos\\ItemApi\\ItemApi\\ItemApi.csproj",
+        "projectUniqueName": "C:\\Projects\\calismalarim\\test\\ItemApi\\ItemApi\\ItemApi.csproj",
         "projectName": "ItemApi",
-        "projectPath": "C:\\Users\\rnety\\source\\repos\\ItemApi\\ItemApi\\ItemApi.csproj",
+        "projectPath": "C:\\Projects\\calismalarim\\test\\ItemApi\\ItemApi\\ItemApi.csproj",
         "packagesPath": "C:\\Users\\rnety\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rnety\\source\\repos\\ItemApi\\ItemApi\\obj\\",
+        "outputPath": "C:\\Projects\\calismalarim\\test\\ItemApi\\ItemApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rnety\\AppData\\Roaming\\NuGet\\NuGet.Config",

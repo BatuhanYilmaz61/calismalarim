@@ -813,11 +813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\test\\Items\\Items\\Items.csproj",
+      "projectUniqueName": "C:\\Projects\\calismalarim\\test\\Items\\Items\\Items.csproj",
       "projectName": "Items",
-      "projectPath": "C:\\Projects\\test\\Items\\Items\\Items.csproj",
+      "projectPath": "C:\\Projects\\calismalarim\\test\\Items\\Items\\Items.csproj",
       "packagesPath": "C:\\Users\\rnety\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\test\\Items\\Items\\obj\\",
+      "outputPath": "C:\\Projects\\calismalarim\\test\\Items\\Items\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rnety\\AppData\\Roaming\\NuGet\\NuGet.Config",
