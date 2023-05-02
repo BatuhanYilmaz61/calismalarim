@@ -18,15 +18,22 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using SendGrid.Helpers.Errors.Model;
 using ServiceStack;
-
+using VisioForge.Libs.ZXing;
+using MySqlX.XDevAPI.Common;
+using RestSharp.Extensions;
+using KsDeckLink;
+using System.Web.Script.Serialization;
 
 namespace Malzeme.Helpers
 {
+   
     internal class RestHelper
     {
+        
         public static string ClientID = "RNET";
         public static string clientSecret = "KRrADkKA23Vb8d4NGNQuw5DSqVQeUM9dd7LsJgL0HMA=";
         public string accessToken = "";
+        
         public int updateItem(string url, string userName, string password, string firmNr, string accessToken, LogoMalzemeKarti genericItem)
         {
             try
@@ -53,14 +60,16 @@ namespace Malzeme.Helpers
                 else if (response.StatusCode == HttpStatusCode.BadRequest)
                 {
 
-                    string veriler = response.Content.EncodeJson();
-                    List<string> VeriListe = new List<string>(veriler.Split(','));
-                        foreach(string veri in VeriListe)
-                        {
-                        veriler = veri.Trim();
-                        MessageBox.Show(veriler);
-                        }
-                    
+                    string JsonString = response.Content;
+                    JavaScriptSerializer serializer = new JavaScriptSerializer();
+                    Dictionary<string, object> JsonData = (Dictionary<string, object>)serializer.DeserializeObject(JsonString);
+                    string Message = JsonData["Message" +
+                        ""].ToString();
+                    MessageBox.Show(Message);
+
+
+
+
 
                 }
 

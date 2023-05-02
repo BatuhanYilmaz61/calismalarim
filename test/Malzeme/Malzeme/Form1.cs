@@ -29,6 +29,10 @@ namespace Malzeme
         SqlConnection baglanti;
         private string _connectionString = "Data Source=PC\\BERK;Initial Catalog=Items;Persist Security Info=True;User ID=sa; Password=1";
         private RestHelper _restHelper = new RestHelper();
+
+       
+        
+
         public Form1()
         {
             InitializeComponent();
@@ -178,18 +182,18 @@ namespace Malzeme
         {
             var malzemeKarti = GetSeciliDegerler();
 
-            var accessToken = _restHelper.getAccessToken("http://192.168.1.44:32001", "REST", "REST", "120");
+            var accessToken = _restHelper.getAccessToken("http://192.168.1.40:32001", "REST", "REST", "1");
 
             if (malzemeKarti.LOGOREF > 0)
             {
-                malzemeKarti.LOGOREF = _restHelper.updateItem("http://192.168.1.44:32001", "REST", "REST", "120", accessToken, malzemeKarti);
+                malzemeKarti.LOGOREF = _restHelper.updateItem("http://192.168.1.40:32001", "REST", "REST", "1", accessToken, malzemeKarti);
 
                 if (malzemeKarti.LOGOREF > 0)
                     MalzemeyiVeriTabanindaGuncelle(malzemeKarti);
             }
             else
             {
-                malzemeKarti.LOGOREF = _restHelper.createItem("http://192.168.1.44:32001", "REST", "REST", "120", accessToken, malzemeKarti);
+                malzemeKarti.LOGOREF = _restHelper.createItem("http://192.168.1.40:32001", "REST", "REST", "1", accessToken, malzemeKarti);
                 MalzemeyiVeriTabanindaGuncelle(malzemeKarti);
             }
 
