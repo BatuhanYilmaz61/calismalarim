@@ -182,18 +182,18 @@ namespace Malzeme
         {
             var malzemeKarti = GetSeciliDegerler();
 
-            var accessToken = _restHelper.getAccessToken("http://192.168.1.40:32001", "REST", "REST", "1");
+            var accessToken = _restHelper.getAccessToken("http://10.0.0.231:32001", "RNET", "RNET", "120");
 
             if (malzemeKarti.LOGOREF > 0)
             {
-                malzemeKarti.LOGOREF = _restHelper.updateItem("http://192.168.1.40:32001", "REST", "REST", "1", accessToken, malzemeKarti);
+                malzemeKarti.LOGOREF = _restHelper.updateItem("http://10.0.0.231:32001", "RNET", "RNET", "120", accessToken, malzemeKarti);
 
                 if (malzemeKarti.LOGOREF > 0)
                     MalzemeyiVeriTabanindaGuncelle(malzemeKarti);
             }
             else
             {
-                malzemeKarti.LOGOREF = _restHelper.createItem("http://192.168.1.40:32001", "REST", "REST", "1", accessToken, malzemeKarti);
+                malzemeKarti.LOGOREF = _restHelper.createItem("http://10.0.0.231:32001", "RNET", "RNET", "120", accessToken, malzemeKarti);
                 MalzemeyiVeriTabanindaGuncelle(malzemeKarti);
             }
 

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Malzeme"
+    "\\Malzeme",
+    "\\Malzeme\\Helpers",
+    "\\Malzeme\\Resources",
+    "\\Malzeme\\Resources\\Queries"
   ],
-  "SelectedNode": "\\Malzeme.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -63,13 +63,8 @@ namespace Malzeme.Helpers
                     string JsonString = response.Content;
                     JavaScriptSerializer serializer = new JavaScriptSerializer();
                     Dictionary<string, object> JsonData = (Dictionary<string, object>)serializer.DeserializeObject(JsonString);
-                    string Message = JsonData["Message" +
-                        ""].ToString();
+                    string Message = JsonData["Message"].ToString();
                     MessageBox.Show(Message);
-
-
-
-
 
                 }
 

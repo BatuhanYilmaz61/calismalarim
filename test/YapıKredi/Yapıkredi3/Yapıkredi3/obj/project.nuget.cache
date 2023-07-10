@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tcbh1xE8mVR5bRJd9eTMErbWv1kZqJ81nJZkQ3cCln/1nYVgAZmJAqyqViYjhkeGBYLw4qURBwRVUwSi5se2RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\calismalarim\\test\\YapıKredi\\Yapıkredi3\\Yapıkredi3\\Yapıkredi3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rnety\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rnety\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\rnety\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\rnety\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\rnety\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

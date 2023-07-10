@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u80Xe3yE8YDQMKJmwocA4u706ORKH+QHjWe5YojMSVLZVmgoY6MLebbJrWcX50gF2SNpSZPGlA4vn4btzK4H8w==",
+  "dgSpecHash": "PxlDoMkbt8Tc0Sh1QXl7kBsZsUP/F0ADv5v+sKoYhm2pLaQzMFsDxDVAqgv8C611yNRl68x7E4JmsiprEhG6xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rnety\\source\\repos\\RestClientTest\\RestClientTest\\RestClientTest.csproj",
+  "projectFilePath": "C:\\Projects\\calismalarim\\test\\RestClientTest\\RestClientTest\\RestClientTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

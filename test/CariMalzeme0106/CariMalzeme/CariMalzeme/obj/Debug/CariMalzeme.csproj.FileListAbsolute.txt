@@ -1,0 +1,10 @@
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\bin\Debug\CariMalzeme.exe.config
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\bin\Debug\CariMalzeme.exe
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\bin\Debug\CariMalzeme.pdb
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\obj\Debug\CariMalzeme.csproj.AssemblyReference.cache
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\obj\Debug\CariMalzeme.csproj.SuggestedBindingRedirects.cache
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\obj\Debug\CariMalzeme.Properties.Resources.resources
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\obj\Debug\CariMalzeme.csproj.GenerateResource.cache
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\obj\Debug\CariMalzeme.csproj.CoreCompileInputs.cache
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\obj\Debug\CariMalzeme.exe
+C:\Projects\calismalarim\test\CariMalzeme0106\CariMalzeme\CariMalzeme\obj\Debug\CariMalzeme.pdb

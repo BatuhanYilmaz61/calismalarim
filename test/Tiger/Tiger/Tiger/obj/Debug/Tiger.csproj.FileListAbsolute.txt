@@ -1,0 +1,15 @@
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\bin\Debug\Tiger.exe.config
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\bin\Debug\Tiger.exe
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\bin\Debug\Tiger.pdb
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.csproj.AssemblyReference.cache
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.csproj.SuggestedBindingRedirects.cache
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.CariKod.resources
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.Properties.Resources.resources
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.csproj.GenerateResource.cache
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.csproj.CoreCompileInputs.cache
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.exe
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.pdb
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.Form2.resources
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.Cari.resources
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.Odeme.resources
+C:\Projects\calismalarim\test\Tiger\Tiger\Tiger\obj\Debug\Tiger.Ticari.resources

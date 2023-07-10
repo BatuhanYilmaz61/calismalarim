@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rnety\\source\\repos\\RestClientTest\\RestClientTest\\RestClientTest.csproj",
+      "projectUniqueName": "C:\\Projects\\calismalarim\\test\\RestClientTest\\RestClientTest\\RestClientTest.csproj",
       "projectName": "RestClientTest",
-      "projectPath": "C:\\Users\\rnety\\source\\repos\\RestClientTest\\RestClientTest\\RestClientTest.csproj",
+      "projectPath": "C:\\Projects\\calismalarim\\test\\RestClientTest\\RestClientTest\\RestClientTest.csproj",
       "packagesPath": "C:\\Users\\rnety\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rnety\\source\\repos\\RestClientTest\\RestClientTest\\obj\\",
+      "outputPath": "C:\\Projects\\calismalarim\\test\\RestClientTest\\RestClientTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rnety\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
