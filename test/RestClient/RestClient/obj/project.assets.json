@@ -13,20 +13,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rnety\\source\\repos\\RestClient\\RestClient\\RestClient.csproj",
+      "projectUniqueName": "C:\\Projects\\calismalarim\\test\\RestClient\\RestClient\\RestClient.csproj",
       "projectName": "RestClient",
-      "projectPath": "C:\\Users\\rnety\\source\\repos\\RestClient\\RestClient\\RestClient.csproj",
+      "projectPath": "C:\\Projects\\calismalarim\\test\\RestClient\\RestClient\\RestClient.csproj",
       "packagesPath": "C:\\Users\\rnety\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rnety\\source\\repos\\RestClient\\RestClient\\obj\\",
+      "outputPath": "C:\\Projects\\calismalarim\\test\\RestClient\\RestClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rnety\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -64,7 +66,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
