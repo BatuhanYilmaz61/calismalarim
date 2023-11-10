@@ -21,7 +21,6 @@ C:\Projects\test\Malzeme\Malzeme\obj\Debug\Malzeme.csproj.CoreCompileInputs.cach
 C:\Projects\test\Malzeme\Malzeme\obj\Debug\Malzeme.exe
 C:\Projects\test\Malzeme\Malzeme\obj\Debug\Malzeme.pdb
 C:\Projects\calismalarim\test\Malzeme\Malzeme\obj\Debug\Malzeme.csproj.AssemblyReference.cache
-C:\Projects\calismalarim\test\Malzeme\Malzeme\obj\Debug\Malzeme.csproj.SuggestedBindingRedirects.cache
 C:\Projects\calismalarim\test\Malzeme\Malzeme\obj\Debug\Malzeme.Form1.resources
 C:\Projects\calismalarim\test\Malzeme\Malzeme\obj\Debug\Malzeme.Properties.Resources.resources
 C:\Projects\calismalarim\test\Malzeme\Malzeme\obj\Debug\Malzeme.csproj.GenerateResource.cache
